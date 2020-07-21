@@ -1,0 +1,80 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<title>Jonathan Doerr</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="~/css/style.css">
+<!--https://www.w3schools.com/w3css/4/w3.css
+https://www.w3schools.com/w3css/tryw3css_templates_architect.htm#projects-->
+<body> <!--style="background-image: linear-gradient(to bottom right, white, black);" -->
+    <!-- Header --> <!--Can change the 1500 to 1564 to eliminate the small white border between the image and the end of the page-->
+    <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+        <img class="w3-image" src="~/lib/images/back2.jpg" alt="Background" width="1500" height="800">
+        <div class="w3-display-middle w3-margin-top w3-center">
+            <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min">Jonathan Doerr</span></h1>
+        </div>
+    </header>
+
+    <!-- Page content -->
+    <div class="w3-content w3-padding" style="max-width:1564px">
+
+        <!-- Project Section -->
+        <div class="w3-container w3-padding-32" id="projects">
+            <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Projects</h3>
+        </div>
+
+
+        <!-- Was w3-col l3 m6 w3-margin-bottom-->
+        <div class="w3-row-padding">
+            <div class="w3-col l4 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Twitter Weather Record Bot</div>
+                    <img src="~/lib/images/weatherBot.png" alt="weatherBot" style="width:100%">
+                </div>
+            </div>
+            <div class="w3-col l4 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Google Chrome Extension: Amazon't</div>
+                    <img src="~/lib/images/amazont.png" alt="Amazon't" style="width: 100%">
+                </div>
+            </div>
+            <div class="w3-col l4 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">.Net Portfolio</div>
+                    <img src="~/lib/images/weatherBot.png" alt="" style="width:100%">
+                </div>
+            </div>
+            <!--  <div class="w3-col l3 m6 w3-margin-bottom">
+              <div class="w3-display-container">
+                <div class="w3-display-topleft w3-black w3-padding">Barn House</div>
+                <img src="/w3images/house4.jpg" alt="House" style="width:100%">
+              </div>
+            </div>
+            -->
+        </div>
+
+        <!-- About Section -->
+        <div class="w3-container w3-padding-32" id="about">
+            <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint
+                occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                laboris nisi ut aliquip ex ea commodo consequat.
+            </p>
+        </div>
+
+
+        <!-- Contact Section -->
+        <div class="w3-container w3-padding-32" id="contact">
+            <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
+            <p>Contact me at one of the following.</p>
+            <p>jondoerr21@gmail.com</p>
+        </div>
+
+    </div>
+</body>
+
