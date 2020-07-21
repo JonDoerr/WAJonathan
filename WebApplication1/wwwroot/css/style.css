@@ -9,12 +9,13 @@ html {
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html {
     -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%
+    -webkit-text-size-adjust: 100%;
+    overflow-y:scroll;
 }
 
 body {
     margin: 0;
-    background-image: linear-gradient(to bottom right, #5745dd, #ed157a);
+    background-image: linear-gradient(to bottom right, #fff, #206bf4);
 }
 
 article, aside, details, figcaption, figure, footer, header, main, menu, nav, section {

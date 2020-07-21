@@ -59,7 +59,6 @@ E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Projects.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -70,3 +69,5 @@ E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.dll
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.pdb
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.csproj.CopyComplete
+E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Amazont.cshtml.g.cs
+E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\TwitterRecord.cshtml.g.cs

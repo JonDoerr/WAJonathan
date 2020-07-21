@@ -1,0 +1,16 @@
+﻿@page
+@model ProjectModel
+@{
+    ViewData["Title"] = "Twitter Weather Record Bot";
+}
+<head>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <h1>@ViewData["Title"]</h1>
+
+    <p>This is a twitter bot that I made that tweets out information about the weather. It compares
+    the weather from the previous day to information that it scrapes online. The information is scraped
+    using the Ruby gem Nokogiri.</p>
+    <img src=~/lib/images/weatherBot.png style="max-width:35%;"/>
+</body>
