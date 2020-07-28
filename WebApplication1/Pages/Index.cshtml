@@ -12,12 +12,7 @@
 https://www.w3schools.com/w3css/tryw3css_templates_architect.htm#projects-->
 <body> <!--style="background-image: linear-gradient(to bottom right, white, black);" -->
     <!-- Header --> <!--Can change the 1500 to 1564 to eliminate the small white border between the image and the end of the page-->
-    <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-        <img class="w3-image funshadow" src="~/lib/images/back2.jpg" alt="Background" width="1500" height="800">
-        <div class="w3-display-middle w3-margin-top w3-center">
-            <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min">Jonathan Doerr</span></h1>
-        </div>
-    </header>
+    
 
     <!-- Page content -->
     <div class="w3-content w3-padding" style="max-width:1564px">
@@ -47,9 +42,11 @@ https://www.w3schools.com/w3css/tryw3css_templates_architect.htm#projects-->
                 </div>
             </div>
             <div class="w3-col l4 m6 w3-margin-bottom">
-                <div class="w3-display-container">
-                    <div class="w3-display-topleft w3-black w3-padding">.Net Portfolio</div>
-                    <img src="~/lib/images/weatherBot.png" alt="" style="width:100%">
+                <div class="w3-display-container w3-card-4">
+                    <a class="w3-display-topleft w3-black w3-padding" asp-page="/">.Net Portfolio</a>
+                    <a href ="/">
+                        <img src="~/lib/images/weatherBot.png" alt="" style="width:100%">
+                    </a>
                 </div>
             </div>
             <!--  <div class="w3-col l3 m6 w3-margin-bottom">
