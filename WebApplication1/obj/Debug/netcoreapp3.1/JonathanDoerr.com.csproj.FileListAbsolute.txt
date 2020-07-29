@@ -71,3 +71,4 @@ E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.csproj.CopyComplete
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Amazont.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\TwitterRecord.cshtml.g.cs
+E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout1.cshtml.g.cs

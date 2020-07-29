@@ -1,7 +1,8 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page"; 
+    ViewData["Title"] = "Home page";
+    Layout = "_Layout1";
 }
 
 <title>Jonathan Doerr</title>
@@ -10,10 +11,22 @@
 <link rel="stylesheet" href="~/css/style.css">
 <!--https://www.w3schools.com/w3css/4/w3.css
 https://www.w3schools.com/w3css/tryw3css_templates_architect.htm#projects-->
-<body> <!--style="background-image: linear-gradient(to bottom right, white, black);" -->
+@*<div><img class="container" style="
+        padding-left: 0px;
+        margin-top: -68px;
+        display: block;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        padding-right: 0px;
+        max-width: 100%;
+        height: 100vh;
+        /* object-fit: cover; */
+        /* margin: 0 auto; */
+    " src="/../lib/images/sg2.png"></div>*@
+<body>
+    @*style="background-image:url(~/../lib/images/sg2.png)"*@
     <!-- Header --> <!--Can change the 1500 to 1564 to eliminate the small white border between the image and the end of the page-->
-    
-
     <!-- Page content -->
     <div class="w3-content w3-padding" style="max-width:1564px">
 
@@ -44,7 +57,7 @@ https://www.w3schools.com/w3css/tryw3css_templates_architect.htm#projects-->
             <div class="w3-col l4 m6 w3-margin-bottom">
                 <div class="w3-display-container w3-card-4">
                     <a class="w3-display-topleft w3-black w3-padding" asp-page="/">.Net Portfolio</a>
-                    <a href ="/">
+                    <a href="/">
                         <img src="~/lib/images/weatherBot.png" alt="" style="width:100%">
                     </a>
                 </div>
