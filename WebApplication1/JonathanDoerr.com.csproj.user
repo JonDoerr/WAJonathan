@@ -5,5 +5,10 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>FolderProfile</NameOfLastUsedPublishProfile>
+    <GoogleCloudPublishChoice>Gae</GoogleCloudPublishChoice>
+    <GoogleCloudPublishConfiguration>Release</GoogleCloudPublishConfiguration>
+    <GoogleAppEnginePublishPromote>True</GoogleAppEnginePublishPromote>
+    <GoogleAppEnginePublishOpenWebsite>True</GoogleAppEnginePublishOpenWebsite>
   </PropertyGroup>
 </Project>
