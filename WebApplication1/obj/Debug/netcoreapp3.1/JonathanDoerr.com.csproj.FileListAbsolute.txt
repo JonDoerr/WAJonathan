@@ -45,7 +45,6 @@ E:\Jon\Projects\WAJonathan\WebApplication1\bin\Debug\netcoreapp3.1\JonathanDoerr
 E:\Jon\Projects\WAJonathan\WebApplication1\bin\Debug\netcoreapp3.1\JonathanDoerr.com.pdb
 E:\Jon\Projects\WAJonathan\WebApplication1\bin\Debug\netcoreapp3.1\JonathanDoerr.com.Views.dll
 E:\Jon\Projects\WAJonathan\WebApplication1\bin\Debug\netcoreapp3.1\JonathanDoerr.com.Views.pdb
-E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.csprojAssemblyReference.cache
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\JonathanDoerr.com.StaticWebAssets.Manifest.cache
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\JonathanDoerr.com.StaticWebAssets.xml
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.MvcApplicationPartsAssemblyInfo.cache
@@ -56,11 +55,14 @@ E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.TagHelpers.input.cache
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.TagHelpers.output.cache
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.RazorCoreGenerate.cache
+E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Amazont.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout1.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\TwitterRecord.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.RazorTargetAssemblyInfo.cache
@@ -69,6 +71,4 @@ E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.dll
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.pdb
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.csproj.CopyComplete
-E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Amazont.cshtml.g.cs
-E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\TwitterRecord.cshtml.g.cs
-E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout1.cshtml.g.cs
+E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.csprojAssemblyReference.cache
