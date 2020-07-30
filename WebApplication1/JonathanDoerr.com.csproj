@@ -7,6 +7,9 @@
   <ItemGroup>
     <Content Remove="wwwroot\lib\images\background.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="app.yaml" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
 
 
 

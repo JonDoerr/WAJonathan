@@ -36,3 +36,4 @@ E:\Jon\Projects\WAJonathan\WebApplication1\obj\Release\netcoreapp3.1\JonathanDoe
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Release\netcoreapp3.1\JonathanDoerr.com.pdb
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Release\netcoreapp3.1\JonathanDoerr.com.csproj.CopyComplete
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout1.cshtml.g.cs
+E:\Jon\Projects\WAJonathan\WebApplication1\bin\Release\netcoreapp3.1\app.yaml

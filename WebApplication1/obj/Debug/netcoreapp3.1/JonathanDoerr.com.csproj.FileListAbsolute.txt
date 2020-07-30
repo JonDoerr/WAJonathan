@@ -71,3 +71,4 @@ E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.dll
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.pdb
 E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.csproj.CopyComplete
+E:\Jon\Projects\WAJonathan\WebApplication1\obj\Debug\netcoreapp3.1\JonathanDoerr.com.csprojAssemblyReference.cache
